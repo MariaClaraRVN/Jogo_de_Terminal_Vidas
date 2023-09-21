@@ -1,0 +1,14 @@
+C:\Users\games\OneDrive\Documentos\c#-Alura\Jogo_Vida_Danos\Jogo_Vida_Danos\bin\Debug\Jogo_Vida_Danos.exe.config
+C:\Users\games\OneDrive\Documentos\c#-Alura\Jogo_Vida_Danos\Jogo_Vida_Danos\bin\Debug\Jogo_Vida_Danos.exe
+C:\Users\games\OneDrive\Documentos\c#-Alura\Jogo_Vida_Danos\Jogo_Vida_Danos\bin\Debug\Jogo_Vida_Danos.pdb
+C:\Users\games\OneDrive\Documentos\c#-Alura\Jogo_Vida_Danos\Jogo_Vida_Danos\obj\Debug\Jogo_Vida_Danos.csproj.AssemblyReference.cache
+C:\Users\games\OneDrive\Documentos\c#-Alura\Jogo_Vida_Danos\Jogo_Vida_Danos\obj\Debug\Jogo_Vida_Danos.csproj.CoreCompileInputs.cache
+C:\Users\games\OneDrive\Documentos\c#-Alura\Jogo_Vida_Danos\Jogo_Vida_Danos\obj\Debug\Jogo_Vida_Danos.exe
+C:\Users\games\OneDrive\Documentos\c#-Alura\Jogo_Vida_Danos\Jogo_Vida_Danos\obj\Debug\Jogo_Vida_Danos.pdb
+E:\Documentos\Maria-faculdade\3°ciclo\Programação poo\Jogo_Vida_Danos\Jogo_Vida_Danos\bin\Debug\Jogo_Vida_Danos.exe.config
+E:\Documentos\Maria-faculdade\3°ciclo\Programação poo\Jogo_Vida_Danos\Jogo_Vida_Danos\bin\Debug\Jogo_Vida_Danos.exe
+E:\Documentos\Maria-faculdade\3°ciclo\Programação poo\Jogo_Vida_Danos\Jogo_Vida_Danos\bin\Debug\Jogo_Vida_Danos.pdb
+E:\Documentos\Maria-faculdade\3°ciclo\Programação poo\Jogo_Vida_Danos\Jogo_Vida_Danos\obj\Debug\Jogo_Vida_Danos.csproj.AssemblyReference.cache
+E:\Documentos\Maria-faculdade\3°ciclo\Programação poo\Jogo_Vida_Danos\Jogo_Vida_Danos\obj\Debug\Jogo_Vida_Danos.csproj.CoreCompileInputs.cache
+E:\Documentos\Maria-faculdade\3°ciclo\Programação poo\Jogo_Vida_Danos\Jogo_Vida_Danos\obj\Debug\Jogo_Vida_Danos.exe
+E:\Documentos\Maria-faculdade\3°ciclo\Programação poo\Jogo_Vida_Danos\Jogo_Vida_Danos\obj\Debug\Jogo_Vida_Danos.pdb
